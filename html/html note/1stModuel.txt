@@ -1,0 +1,61 @@
+paragraph <p> </p>
+
+bold 	<b> </b>
+	<strong> </strong>
+
+italic <i> </i>
+	<em> </em>
+
+smaller <small> </small>
+
+heading <h1..h6> </h1..h6>
+
+brak <br>
+
+unorderlist <ul>
+	<li> </li>
+	<li> </li>
+	</ul>
+orderlist <ol>
+	<li> </li>
+	</ol>
+
+images <img src="" alt="message">
+
+input type <input type="text,email,password,date,checkbox,dropdown etc" placeholder="default message"> 
+
+<input type ="button" value="Submit">
+
+anchor <a href=""> Click </a>
+
+open in new tab then
+<a href="" target="_blank">Click</a>
+
+html structure:
+		<html>
+			<head>
+
+			</head>
+				<body>
+					<footer>
+
+					</footer>
+				</body>
+		</html>
+
+icon in website tab:favicon
+
+<head>
+<link rel="shortcut icon href="#" type=<"images/x-icon">
+<title> </title>
+</head>
+
+<select name="" id="">
+	<option value = "tea"> Tea </option>
+	<option value = "coffe"> Coffee </option>
+</select>
+
+<div>
+
+</div>
+				

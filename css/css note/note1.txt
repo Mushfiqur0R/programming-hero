@@ -1,0 +1,132 @@
+CSS..............................................
+
+id="example1"; 
+using in style sheet 
+#example1{
+	}
+
+class="example2"; 
+using in style sheet 
+.example2{
+	}
+
+multiple class or id or tag using:
+#third,input{
+}
+
+.holud,.yellow{
+}
+				
+
+All select :
+*{
+margin:0px;
+}
+
+specific selection in input type:
+
+input[type="password"]{
+color:red;
+}
+note:only password section is red color.
+
+
+using <span> </span> for specific section in paragrap or text part:
+
+ <p> My First <span class="bold"> CSS File </span>
+
+
+border type some thing......................
+
+border: 15px solid black ;
+border: 15px dashed red;
+border-bottom: none;
+border-radius: 10px;
+border: 15px dotted red;
+
+margin using............
+
+margin: 10px;
+margin-top: 5px;
+margin-bottom: 5px;
+margin-right: 5px;
+margin-left: 5px;
+
+margin top,left/right,bottom..........
+margin: 10px 50px 100px;
+
+margin top,right,bottom,left.........
+margin: 10px 50px 60px 30px;
+
+text align...........
+text-align: justify;
+text-align: center;
+
+padding.........................
+padding: 20px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+
+TB RL...........................
+padding: 30px 40px; 
+
+top,left/right,bottom..........
+padding: 30px 40px 60px;
+
+top,right,bottom,left.........
+padding: 30px 40px 60px 80px;
+
+width: 100%;
+height: 100px;
+
+text:decoration:underline;
+
+Important for Interview: CSS Box Model (google it)...............
+
+<h3>CSS Box Model</h3>
+    <ol>
+        <li>Content</li>
+        <li>border</li>
+        <li>margin</li>
+        <li>padding</li>
+        <li>width & height</li>
+    </ol>
+
+hide any text element.............
+.class{
+display:none;
+display:block;
+display:inline-block;
+or
+visibility:hidden;
+}
+
+For Shadow with color and without...........
+box-shadow: 10px 10px 10px;
+box-shadow: 10px 10px 20px violet;
+}
+
+
+font family.......................change font style
+font-family: 'Courier New', Courier, monospace;
+
+
+
+
+
+
+
+git config --global user.email "musfikur.dev@gmail.com.com"
+git config --global user.name "Mushfiqur0R"
+
+	height: 300px;
+    background-image: url('../images/dulavai.png');
+    /* background-image: url('../images/dulavai.png'); */
+    /* background-image: url('images/dulavai.png'); */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: 200px;

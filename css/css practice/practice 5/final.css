@@ -1,0 +1,39 @@
+.header{
+    text-align: center;
+    box-shadow: 10px 10px 10px black;
+}
+.img{
+    height: 200px;
+    width: 200px;
+    padding: 5px;
+    box-shadow: 10px 10px 10px black;
+    margin: 10px;
+}
+.input{
+    background-color: rgb(31, 4, 12);
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 5px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 4px 4px 4px black;
+    
+}
+.txt{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    box-shadow: 5px 5px 5px black;
+    
+}
+.b{
+    /* display: block; */
+    /* display: none; */
+    /* display: inline-block; */
+    /* display: inline; */
+    /* visibility: hidden; */
+
+}
+.c{
+    background-color: rgb(39, 39, 245);
+}

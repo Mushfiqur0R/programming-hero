@@ -1,0 +1,22 @@
+.web{
+    border: 2px solid rgb(40, 30, 30);
+    text-align: center;
+    color: hotpink;
+    box-shadow: 10px 10px 8px rgb(45, 20, 24);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+.pra{
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: unset;
+    color: rgb(17, 80, 101);
+    border: 2px solid rgb(40, 30, 30);
+    box-shadow: 10px 10px 10px rgb(30, 22, 13);
+}
+.list{
+    border: 2px solid rgb(40, 30, 30);
+    box-shadow: 10px 10px 10px rgb(30, 22, 13);
+    
+}
+
